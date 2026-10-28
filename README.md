@@ -20,12 +20,11 @@
 -  I build websites with **HTML, CSS & JavaScript**
 -  Active Discord server admin, always happy to talk about bots and web projects
 
-## 🔧 What I work on
+##  What I work on
 
 | Project | Description |
 |---|---|
 | **MEVO Studios** | Studio for Discord bots, web development and more |
-| **Discord Bots** | Moderation, logging and utility bots built from scratch |
 
 ## 🧰 Tech stack
 
