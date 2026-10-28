@@ -29,7 +29,6 @@
 
 **Languages & tools:** JavaScript · HTML · CSS  
 **Libraries:** discord.js  
-**Other:** Discord server management
 
 ## Get in touch
 
