@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  **Fun Fact:** I always want to start something new
+  **Fun Fact:** I always want to build something new
 </p>
