@@ -13,12 +13,12 @@
 
 ---
 
-## 🚀 About me
+##  About me
 
-- 🛠️ I'm currently building **MEVO Studios**, a studio for Discord bots, web development and more
-- 🤖 I develop custom **Discord bots** (Node.js, discord.js v14) instead of relying on off-the-shelf solutions
-- 🌐 I build websites with **HTML, CSS & JavaScript**
-- 💬 Active Discord server admin, always happy to talk about bots and web projects
+-  I'm currently building **MEVO Studios**, a studio for Discord bots, web development and more
+-  I develop custom **Discord bots** (Node.js, discord.js v14) instead of relying on off-the-shelf solutions
+-  I build websites with **HTML, CSS & JavaScript**
+-  Active Discord server admin, always happy to talk about bots and web projects
 
 ## 🔧 What I work on
 
