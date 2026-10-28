@@ -29,17 +29,26 @@
 
 **Languages & tools:** JavaScript · HTML · CSS  
 **Libraries:** discord.js  
+**Other:** Discord server management
 
 ## Get in touch
 
 - Discord: `xvorti_`
 - Mail: `vorti.contact@gmail.com`
 
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&showDisplayName=true&hideClan=true" alt="Discord Preview" /></a>
+</p>
+
 ## 📊 GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=xVorti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVorti&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xVorti&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" />
 </p>
 
 ---
