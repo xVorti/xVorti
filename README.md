@@ -16,7 +16,7 @@
 ##  About me
 
 -  I'm currently building **MEVO Studios**, a studio for Discord bots, web development and more
--  I develop custom **Discord bots** (Node.js, discord.js v14) instead of relying on off-the-shelf solutions
+-  I develop custom **Discord bots** (Node.js, discord.js v14)
 -  I build websites with **HTML, CSS & JavaScript**
 
 ##  What I work on
