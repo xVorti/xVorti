@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vorti 👋</h1>
 
 <p align="center">
-  Founder of MEVO Studios · Discord bot developer · Web enthusiast
+  Founder of MEVO Studios · Discord bot developer · Web Frontend Developer
 </p>
 
 <p align="center">
