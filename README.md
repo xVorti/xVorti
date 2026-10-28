@@ -27,7 +27,7 @@
 
 ##  Tech stack
 
-**Languages & tools:** JavaScript · Node.js · HTML · CSS  
+**Languages & tools:** JavaScript · HTML · CSS  
 **Libraries:** discord.js  
 **Other:** Discord server management
 
