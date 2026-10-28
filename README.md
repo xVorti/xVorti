@@ -13,28 +13,28 @@
 
 ---
 
-##  About me
+## About me
 
--  I'm currently building **MEVO Studios**, a studio for Discord bots, web development and more
--  I develop custom **Discord bots** (Node.js, discord.js v14)
--  I build websites with **HTML, CSS & JavaScript**
+- I'm currently building **MEVO Studios**, a studio for Discord bots, web development and more
+- I develop custom **Discord bots** (Node.js, discord.js v14)
+- I build websites with **HTML, CSS & JavaScript**
 
-##  What I work on
+## What I work on
 
 | Project | Description |
 |---|---|
 | **MEVO Studios** | Studio for Discord bots, web development and more |
 
-##  Tech stack
+## Tech stack
 
 **Languages & tools:** JavaScript · HTML · CSS  
 **Libraries:** discord.js  
 **Other:** Discord server management
 
-##  Get in touch
+## Get in touch
 
--  Discord: `xvorti_`
--  Mail: `vorti.contact@gmail.com`
+- Discord: `xvorti_`
+- Mail: `vorti.contact@gmail.com`
 
 ## 📊 GitHub stats
 
@@ -45,6 +45,8 @@
 
 ---
 
-<p align="center">
-  **Fun Fact:** I always want to build something new
-</p>
+<div align="center">
+
+**Fun Fact:** I always want to build something new
+
+</div>
