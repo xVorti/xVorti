@@ -40,7 +40,7 @@
   <a href="https://discord.com/users/1454503648880234848"><img src="https://lanyard.cnrad.dev/api/1454503648880234848?theme=dark&showDisplayName=true&hideClan=true" alt="Discord Preview" /></a>
 </p>
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=xVorti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
