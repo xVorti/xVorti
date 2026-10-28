@@ -25,17 +25,17 @@
 |---|---|
 | **MEVO Studios** | Studio for Discord bots, web development and more |
 
-## 🧰 Tech stack
+##  Tech stack
 
 **Languages & tools:** JavaScript · Node.js · HTML · CSS  
 **Libraries:** discord.js  
 **Other:** Discord server management
 
-## 📫 Get in touch
+##  Get in touch
 
-- 💬 Discord: `YOUR_DISCORD_NAME`
-- 🌍 MEVO Studios: `YOUR_MEVO_LINK`
-- 📧 Mail: `your@email.com`
+-  Discord: `YOUR_DISCORD_NAME`
+-  MEVO Studios: `YOUR_MEVO_LINK`
+-  Mail: `your@email.com`
 
 ## 📊 GitHub stats
 
