@@ -33,15 +33,14 @@
 
 ##  Get in touch
 
--  Discord: `YOUR_DISCORD_NAME`
--  MEVO Studios: `YOUR_MEVO_LINK`
--  Mail: `your@email.com`
+-  Discord: `xvorti_`
+-  Mail: `vorti.contact@gmail.com`
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xVorti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVorti&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
