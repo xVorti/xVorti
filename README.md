@@ -35,6 +35,7 @@
 
 - Discord: `xvorti_`
 - Mail: `vorti.contact@gmail.com`
+- About Me: https://vorti.venrox.net
 
 <p align="center">
   <a href="https://discord.com/users/1454503648880234848"><img src="https://lanyard.cnrad.dev/api/1454503648880234848?theme=dark&showDisplayName=true&hideClan=true" alt="Discord Preview" /></a>
